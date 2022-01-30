@@ -1,0 +1,13 @@
+name = "Explorer's Compass"
+filename = "ExplorersCompass-1.16.5-1.1.2-forge.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3412/474/ExplorersCompass-1.16.5-1.1.2-forge.jar"
+hash-format = "murmur2"
+hash = "3402250003"
+
+[update]
+[update.curseforge]
+file-id = 3412474
+project-id = 491794

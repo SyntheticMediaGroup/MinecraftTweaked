@@ -1,0 +1,13 @@
+name = "Omnis"
+filename = "omnis-1.16.5-1.1.2.3.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3332/861/omnis-1.16.5-1.1.2.3.jar"
+hash-format = "murmur2"
+hash = "2383557785"
+
+[update]
+[update.curseforge]
+file-id = 3332861
+project-id = 463475

@@ -1,0 +1,13 @@
+name = "JEITweaker"
+filename = "JEITweaker-1.16.5-1.1.0.49.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3584/24/JEITweaker-1.16.5-1.1.0.49.jar"
+hash-format = "murmur2"
+hash = "332882758"
+
+[update]
+[update.curseforge]
+file-id = 3584024
+project-id = 368718

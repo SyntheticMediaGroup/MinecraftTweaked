@@ -1,0 +1,13 @@
+name = "Farmer's Delight Cookbook Addon [0.4 is the last update]"
+filename = "fd_cookbook-2.0.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3309/192/fd_cookbook-2.0.jar"
+hash-format = "murmur2"
+hash = "4109540374"
+
+[update]
+[update.curseforge]
+file-id = 3309192
+project-id = 451839

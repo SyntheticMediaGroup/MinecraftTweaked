@@ -1,0 +1,13 @@
+name = "More Plates Revamped"
+filename = "moreplates-1.16.5-7.4.3.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3518/579/moreplates-1.16.5-7.4.3.jar"
+hash-format = "murmur2"
+hash = "3588277347"
+
+[update]
+[update.curseforge]
+file-id = 3518579
+project-id = 417169

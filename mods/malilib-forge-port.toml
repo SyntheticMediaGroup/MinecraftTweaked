@@ -1,0 +1,13 @@
+name = "MaLiLib Forge Port"
+filename = "malilib-forge-1.16.5-0.10.0-dev.21+beta.1.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3394/547/malilib-forge-1.16.5-0.10.0-dev.21+beta.1.jar"
+hash-format = "murmur2"
+hash = "3055624859"
+
+[update]
+[update.curseforge]
+file-id = 3394547
+project-id = 506516

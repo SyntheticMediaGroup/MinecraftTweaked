@@ -1,0 +1,13 @@
+name = "Mutant Beasts"
+filename = "MutantBeasts-1.16.4-1.1.3.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3131/604/MutantBeasts-1.16.4-1.1.3.jar"
+hash-format = "murmur2"
+hash = "4169506179"
+
+[update]
+[update.curseforge]
+file-id = 3131604
+project-id = 336272

@@ -1,0 +1,13 @@
+name = "L_Ender 's Cataclysm"
+filename = "Cataclysm-0.08.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3567/72/Cataclysm-0.08.jar"
+hash-format = "murmur2"
+hash = "262974146"
+
+[update]
+[update.curseforge]
+file-id = 3567072
+project-id = 551586

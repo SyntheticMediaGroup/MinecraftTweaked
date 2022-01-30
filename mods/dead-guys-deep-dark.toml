@@ -1,0 +1,13 @@
+name = "Dead Guys Untitled Deep Dark"
+filename = "deepdark4.0.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3559/641/deepdark4.0.jar"
+hash-format = "murmur2"
+hash = "680056301"
+
+[update]
+[update.curseforge]
+file-id = 3559641
+project-id = 479009

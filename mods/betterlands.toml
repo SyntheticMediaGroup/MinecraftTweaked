@@ -1,0 +1,13 @@
+name = "Betterlands"
+filename = "Betterlands-1.16.5-0.5.0.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3311/357/Betterlands-1.16.5-0.5.0.jar"
+hash-format = "murmur2"
+hash = "4138560554"
+
+[update]
+[update.curseforge]
+file-id = 3311357
+project-id = 482870

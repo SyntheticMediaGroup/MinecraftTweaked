@@ -1,0 +1,13 @@
+name = "Babel"
+filename = "Babel-1.0.5.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3196/72/Babel-1.0.5.jar"
+hash-format = "murmur2"
+hash = "2164717903"
+
+[update]
+[update.curseforge]
+file-id = 3196072
+project-id = 436964

@@ -1,0 +1,13 @@
+name = "Undergarden/Tetra Patch"
+filename = "Undergarden-Tetra Patch-1.2.1.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3330/242/Undergarden-Tetra Patch-1.2.1.jar"
+hash-format = "murmur2"
+hash = "1694346812"
+
+[update]
+[update.curseforge]
+file-id = 3330242
+project-id = 433071

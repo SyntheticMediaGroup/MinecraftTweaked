@@ -1,0 +1,13 @@
+name = "All The Biomes You'll Go (FABRIC + FORGE)"
+filename = "abyg-1.2-forge.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3432/455/abyg-1.2-forge.jar"
+hash-format = "murmur2"
+hash = "3865429336"
+
+[update]
+[update.curseforge]
+file-id = 3432455
+project-id = 488573

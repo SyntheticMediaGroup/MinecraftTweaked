@@ -1,0 +1,13 @@
+name = "Arachnid Rancher"
+filename = "ArachnidRancher1.5.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3511/274/ArachnidRancher1.5.jar"
+hash-format = "murmur2"
+hash = "3237507020"
+
+[update]
+[update.curseforge]
+file-id = 3511274
+project-id = 528391

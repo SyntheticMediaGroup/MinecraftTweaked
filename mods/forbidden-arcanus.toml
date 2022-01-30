@@ -1,0 +1,13 @@
+name = "Forbidden and Arcanus"
+filename = "forbidden_arcanus-16.2.2.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3541/860/forbidden_arcanus-16.2.2.jar"
+hash-format = "murmur2"
+hash = "3729368172"
+
+[update]
+[update.curseforge]
+file-id = 3541860
+project-id = 309858

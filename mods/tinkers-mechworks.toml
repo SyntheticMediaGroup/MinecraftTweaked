@@ -1,0 +1,13 @@
+name = "Tinkers' Mechworks"
+filename = "TMechworks-1.16.3+-2.2.5.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3365/302/TMechworks-1.16.3+-2.2.5.jar"
+hash-format = "murmur2"
+hash = "3555138601"
+
+[update]
+[update.curseforge]
+file-id = 3365302
+project-id = 78057

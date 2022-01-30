@@ -1,0 +1,13 @@
+name = "Alex's Delight"
+filename = "Alex's Delight 1.1.2 - Forge 1.16.5.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3582/820/Alex's Delight 1.1.2 - Forge 1.16.5.jar"
+hash-format = "murmur2"
+hash = "3033500123"
+
+[update]
+[update.curseforge]
+file-id = 3582820
+project-id = 556448

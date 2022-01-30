@@ -1,0 +1,13 @@
+name = "Better-Shields"
+filename = "BetterShieldsMC1.16.3-1.2.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3504/650/BetterShieldsMC1.16.3-1.2.jar"
+hash-format = "murmur2"
+hash = "2285966741"
+
+[update]
+[update.curseforge]
+file-id = 3504650
+project-id = 360303

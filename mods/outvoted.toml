@@ -1,0 +1,13 @@
+name = "Outvoted"
+filename = "outvoted-1.16.5-1.2.4.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3288/982/outvoted-1.16.5-1.2.4.jar"
+hash-format = "murmur2"
+hash = "369402308"
+
+[update]
+[update.curseforge]
+file-id = 3288982
+project-id = 415057

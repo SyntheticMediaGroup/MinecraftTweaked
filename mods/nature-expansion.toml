@@ -1,0 +1,13 @@
+name = "Nature Expansion"
+filename = "NatureExpansion1.4.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3552/798/NatureExpansion1.4.jar"
+hash-format = "murmur2"
+hash = "3607661161"
+
+[update]
+[update.curseforge]
+file-id = 3552798
+project-id = 481562

@@ -1,0 +1,13 @@
+name = "Blocks +"
+filename = "Blocks+-1.16.5-1.2.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3309/129/Blocks+-1.16.5-1.2.jar"
+hash-format = "murmur2"
+hash = "3104406949"
+
+[update]
+[update.curseforge]
+file-id = 3309129
+project-id = 473206

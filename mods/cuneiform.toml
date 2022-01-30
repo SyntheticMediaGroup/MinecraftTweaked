@@ -1,0 +1,13 @@
+name = "Cuneiform"
+filename = "cuneiform-1.16.3-1.2.5.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3320/687/cuneiform-1.16.3-1.2.5.jar"
+hash-format = "murmur2"
+hash = "1124574786"
+
+[update]
+[update.curseforge]
+file-id = 3320687
+project-id = 419176

@@ -1,0 +1,13 @@
+name = "BetterDefaultBiomes"
+filename = "BetterDefaultBiomes-1.16.4+-Alpha 2.6.1.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3570/618/BetterDefaultBiomes-1.16.4+-Alpha 2.6.1.jar"
+hash-format = "murmur2"
+hash = "1865962395"
+
+[update]
+[update.curseforge]
+file-id = 3570618
+project-id = 379768

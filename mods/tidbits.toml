@@ -1,0 +1,13 @@
+name = "Tidbits - Villagers, Discs, and More!"
+filename = "Tidbits-0.1.3.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3517/754/Tidbits-0.1.3.jar"
+hash-format = "murmur2"
+hash = "2627653329"
+
+[update]
+[update.curseforge]
+file-id = 3517754
+project-id = 514057

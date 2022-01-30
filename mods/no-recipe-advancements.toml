@@ -1,0 +1,13 @@
+name = "No Recipe Advancements"
+filename = "norecipeadvancements-1.0.1.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3578/794/norecipeadvancements-1.0.1.jar"
+hash-format = "murmur2"
+hash = "1919265894"
+
+[update]
+[update.curseforge]
+file-id = 3578794
+project-id = 554065

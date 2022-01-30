@@ -1,0 +1,13 @@
+name = "Dungeon Crawl"
+filename = "DungeonCrawl-1.16.5-2.3.5.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3576/775/DungeonCrawl-1.16.5-2.3.5.jar"
+hash-format = "murmur2"
+hash = "1171039666"
+
+[update]
+[update.curseforge]
+file-id = 3576775
+project-id = 324973

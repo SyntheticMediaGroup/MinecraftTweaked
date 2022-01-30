@@ -1,0 +1,13 @@
+name = "Obscuria's Essentials"
+filename = "Obscuria's Essentials 2.2 (1.16.5).jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3549/950/Obscuria's Essentials 2.2 (1.16.5).jar"
+hash-format = "murmur2"
+hash = "289527276"
+
+[update]
+[update.curseforge]
+file-id = 3549950
+project-id = 536348

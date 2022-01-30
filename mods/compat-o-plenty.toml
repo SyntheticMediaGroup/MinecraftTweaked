@@ -1,0 +1,13 @@
+name = "Compat O' Plenty"
+filename = "Compat-O-Plenty-1.16.5-1.0.4.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3587/811/Compat-O-Plenty-1.16.5-1.0.4.jar"
+hash-format = "murmur2"
+hash = "2327637108"
+
+[update]
+[update.curseforge]
+file-id = 3587811
+project-id = 558850

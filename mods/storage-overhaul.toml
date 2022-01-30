@@ -1,0 +1,13 @@
+name = "Storage Overhaul"
+filename = "storage_overhaul-1.16.5-1.0.4.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3283/97/storage_overhaul-1.16.5-1.0.4.jar"
+hash-format = "murmur2"
+hash = "783160801"
+
+[update]
+[update.curseforge]
+file-id = 3283097
+project-id = 382599

@@ -1,0 +1,13 @@
+name = "Meetle!"
+filename = "meetle-8.6.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3553/583/meetle-8.6.jar"
+hash-format = "murmur2"
+hash = "3259261951"
+
+[update]
+[update.curseforge]
+file-id = 3553583
+project-id = 461498

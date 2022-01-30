@@ -1,0 +1,13 @@
+name = "Additional Lights"
+filename = "additional_lights-1.16.4-2.1.3.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3116/438/additional_lights-1.16.4-2.1.3.jar"
+hash-format = "murmur2"
+hash = "2544227942"
+
+[update]
+[update.curseforge]
+file-id = 3116438
+project-id = 384991

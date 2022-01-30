@@ -1,0 +1,13 @@
+name = "The King of the Villagers"
+filename = "kingvillager-1.6.3.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3559/797/kingvillager-1.6.3.jar"
+hash-format = "murmur2"
+hash = "858028575"
+
+[update]
+[update.curseforge]
+file-id = 3559797
+project-id = 378928

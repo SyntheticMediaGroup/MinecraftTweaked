@@ -1,0 +1,13 @@
+name = "Easy Magic [Forge]"
+filename = "EasyMagic-v1.0.4-1.16.5.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3528/799/EasyMagic-v1.0.4-1.16.5.jar"
+hash-format = "murmur2"
+hash = "4051613098"
+
+[update]
+[update.curseforge]
+file-id = 3528799
+project-id = 456239

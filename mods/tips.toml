@@ -1,0 +1,13 @@
+name = "Tips"
+filename = "Tips-1.16.5-4.0.7.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3224/747/Tips-1.16.5-4.0.7.jar"
+hash-format = "murmur2"
+hash = "1930605036"
+
+[update]
+[update.curseforge]
+file-id = 3224747
+project-id = 306549

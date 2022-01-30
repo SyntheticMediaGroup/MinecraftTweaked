@@ -1,0 +1,13 @@
+name = "Additional Bars - Biomes O' Plenty addon"
+filename = "additionalbarsbop-2.0.3.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3290/968/additionalbarsbop-2.0.3.jar"
+hash-format = "murmur2"
+hash = "1603011295"
+
+[update]
+[update.curseforge]
+file-id = 3290968
+project-id = 460311

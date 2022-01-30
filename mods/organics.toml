@@ -1,0 +1,13 @@
+name = "Organics"
+filename = "Organics-1.16.5-0.1.9.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3423/231/Organics-1.16.5-0.1.9.jar"
+hash-format = "murmur2"
+hash = "650102100"
+
+[update]
+[update.curseforge]
+file-id = 3423231
+project-id = 411399

@@ -1,0 +1,13 @@
+name = "MorePaths"
+filename = "MorePaths-1.16.1-1.3.2.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3503/786/MorePaths-1.16.1-1.3.2.jar"
+hash-format = "murmur2"
+hash = "2221551706"
+
+[update]
+[update.curseforge]
+file-id = 3503786
+project-id = 418564

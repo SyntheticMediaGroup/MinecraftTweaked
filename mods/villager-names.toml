@@ -1,0 +1,13 @@
+name = "Villager Names (Forge)"
+filename = "villagernames_1.16.5-3.4.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3521/661/villagernames_1.16.5-3.4.jar"
+hash-format = "murmur2"
+hash = "2423473194"
+
+[update]
+[update.curseforge]
+file-id = 3521661
+project-id = 345854

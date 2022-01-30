@@ -1,0 +1,13 @@
+name = "JEI Professions"
+filename = "jei-professions-1.0.0-1.16.4.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3163/628/jei-professions-1.0.0-1.16.4.jar"
+hash-format = "murmur2"
+hash = "1569446962"
+
+[update]
+[update.curseforge]
+file-id = 3163628
+project-id = 403499

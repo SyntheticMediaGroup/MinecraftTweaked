@@ -1,0 +1,13 @@
+name = "The Afterlight"
+filename = "The Afterlight v1.5.5.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3468/114/The Afterlight v1.5.5.jar"
+hash-format = "murmur2"
+hash = "2989650502"
+
+[update]
+[update.curseforge]
+file-id = 3468114
+project-id = 499469

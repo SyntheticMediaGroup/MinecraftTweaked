@@ -1,0 +1,13 @@
+name = "Nourished End"
+filename = "NourishedEndV6.1 Backport.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3580/412/NourishedEndV6.1 Backport.jar"
+hash-format = "murmur2"
+hash = "973126057"
+
+[update]
+[update.curseforge]
+file-id = 3580412
+project-id = 502786

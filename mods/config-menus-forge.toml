@@ -1,0 +1,13 @@
+name = "Config Menus for Forge"
+filename = "ConfigMenusForge-v1.2.0-1.16.5-Forge.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3520/850/ConfigMenusForge-v1.2.0-1.16.5-Forge.jar"
+hash-format = "murmur2"
+hash = "1547794595"
+
+[update]
+[update.curseforge]
+file-id = 3520850
+project-id = 544048

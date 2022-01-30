@@ -1,0 +1,13 @@
+name = "Nether Agriculture"
+filename = "NetherAgriculture-1.16.5-1.2.1.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3423/164/NetherAgriculture-1.16.5-1.2.1.jar"
+hash-format = "murmur2"
+hash = "933583798"
+
+[update]
+[update.curseforge]
+file-id = 3423164
+project-id = 504384

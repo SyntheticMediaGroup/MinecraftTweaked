@@ -1,0 +1,13 @@
+name = "Caves & Cliffs Backport (Additions)"
+filename = "CavesCliffsBackportAdditions2.58.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3582/313/CavesCliffsBackportAdditions2.58.jar"
+hash-format = "murmur2"
+hash = "1490760268"
+
+[update]
+[update.curseforge]
+file-id = 3582313
+project-id = 534819

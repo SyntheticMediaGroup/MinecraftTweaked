@@ -1,0 +1,13 @@
+name = "Create Cafe"
+filename = "create-cafe-1.16.5-v1.5.0.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3530/932/create-cafe-1.16.5-v1.5.0.jar"
+hash-format = "murmur2"
+hash = "2316993345"
+
+[update]
+[update.curseforge]
+file-id = 3530932
+project-id = 542235

@@ -1,0 +1,13 @@
+name = "Magnesium Dynamic Lights"
+filename = "dynamiclightsreforged-mc1.16.5_v1.0.1.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3574/974/dynamiclightsreforged-mc1.16.5_v1.0.1.jar"
+hash-format = "murmur2"
+hash = "270338064"
+
+[update]
+[update.curseforge]
+file-id = 3574974
+project-id = 551736

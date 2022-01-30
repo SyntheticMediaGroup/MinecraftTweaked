@@ -1,0 +1,13 @@
+name = "Extended Mushrooms"
+filename = "extendedmushrooms-1.6.1-1.16.5+.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3346/846/extendedmushrooms-1.6.1-1.16.5+.jar"
+hash-format = "murmur2"
+hash = "621102663"
+
+[update]
+[update.curseforge]
+file-id = 3346846
+project-id = 365507

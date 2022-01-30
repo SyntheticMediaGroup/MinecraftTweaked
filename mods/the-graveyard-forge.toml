@@ -1,0 +1,13 @@
+name = "The Graveyard (FORGE)"
+filename = "The_Graveyard_2.1_(FORGE)_for_1.16.4-1.16.5.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3540/954/The_Graveyard_2.1_(FORGE)_for_1.16.4-1.16.5.jar"
+hash-format = "murmur2"
+hash = "3589260853"
+
+[update]
+[update.curseforge]
+file-id = 3540954
+project-id = 531188

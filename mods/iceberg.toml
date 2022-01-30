@@ -1,0 +1,13 @@
+name = "Iceberg"
+filename = "Iceberg-1.16.5-1.0.34.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3587/186/Iceberg-1.16.5-1.0.34.jar"
+hash-format = "murmur2"
+hash = "3958409591"
+
+[update]
+[update.curseforge]
+file-id = 3587186
+project-id = 520110

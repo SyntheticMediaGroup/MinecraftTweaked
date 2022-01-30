@@ -1,0 +1,13 @@
+name = "Nether's Exoticism"
+filename = "nether-s-exoticism-1.16.5-1.1.3.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3571/961/nether-s-exoticism-1.16.5-1.1.3.jar"
+hash-format = "murmur2"
+hash = "4037756887"
+
+[update]
+[update.curseforge]
+file-id = 3571961
+project-id = 486029

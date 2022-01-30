@@ -1,0 +1,13 @@
+name = "Tiny Skeletons [Forge]"
+filename = "TinySkeletons-v1.0.1-1.16.5-Forge.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3533/204/TinySkeletons-v1.0.1-1.16.5-Forge.jar"
+hash-format = "murmur2"
+hash = "3008544896"
+
+[update]
+[update.curseforge]
+file-id = 3533204
+project-id = 548647

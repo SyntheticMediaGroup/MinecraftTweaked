@@ -1,0 +1,13 @@
+name = "Village Employment"
+filename = "village-employment-1.16.5-1.4.1.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3395/603/village-employment-1.16.5-1.4.1.jar"
+hash-format = "murmur2"
+hash = "3581929184"
+
+[update]
+[update.curseforge]
+file-id = 3395603
+project-id = 483391

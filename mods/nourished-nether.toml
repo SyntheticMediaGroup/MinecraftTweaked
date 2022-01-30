@@ -1,0 +1,13 @@
+name = "Nourished Nether"
+filename = "NourishedNetherV10ProperBackport.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3579/693/NourishedNetherV10ProperBackport.jar"
+hash-format = "murmur2"
+hash = "1487526516"
+
+[update]
+[update.curseforge]
+file-id = 3579693
+project-id = 479296

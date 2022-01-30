@@ -1,0 +1,13 @@
+name = "Twist"
+filename = "twist-1.4.1.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3423/742/twist-1.4.1.jar"
+hash-format = "murmur2"
+hash = "935879930"
+
+[update]
+[update.curseforge]
+file-id = 3423742
+project-id = 467173

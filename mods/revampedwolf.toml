@@ -1,0 +1,13 @@
+name = "RevampedWolf"
+filename = "RevampedWolf-1.16.4-0.7.1.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3177/100/RevampedWolf-1.16.4-0.7.1.jar"
+hash-format = "murmur2"
+hash = "3983895345"
+
+[update]
+[update.curseforge]
+file-id = 3177100
+project-id = 399945

@@ -1,0 +1,13 @@
+name = "BetterNether Reforged"
+filename = "betternether_reforged-1.2.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3513/533/betternether_reforged-1.2.jar"
+hash-format = "murmur2"
+hash = "89637373"
+
+[update]
+[update.curseforge]
+file-id = 3513533
+project-id = 526921

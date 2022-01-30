@@ -1,0 +1,13 @@
+name = "Enchanting Infuser [Forge]"
+filename = "EnchantingInfuser-v1.0.1-1.16.5-Forge.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3542/658/EnchantingInfuser-v1.0.1-1.16.5-Forge.jar"
+hash-format = "murmur2"
+hash = "1228133987"
+
+[update]
+[update.curseforge]
+file-id = 3542658
+project-id = 551151

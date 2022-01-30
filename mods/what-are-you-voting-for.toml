@@ -1,0 +1,13 @@
+name = "What Did You Vote For? 2021 mob vote: Glare, Allay and Copper Golem!"
+filename = "what_did_you_vote_for-1.16.5-1.0.5.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3494/489/what_did_you_vote_for-1.16.5-1.0.5.jar"
+hash-format = "murmur2"
+hash = "1216118693"
+
+[update]
+[update.curseforge]
+file-id = 3494489
+project-id = 536277

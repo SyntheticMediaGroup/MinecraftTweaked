@@ -1,0 +1,13 @@
+name = "The Abyss LPM Integration"
+filename = "Talpm 1.0.0 1.16.5.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3571/850/Talpm 1.0.0 1.16.5.jar"
+hash-format = "murmur2"
+hash = "452029006"
+
+[update]
+[update.curseforge]
+file-id = 3571850
+project-id = 558415

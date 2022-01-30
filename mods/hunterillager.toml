@@ -1,0 +1,13 @@
+name = "Hunter illager"
+filename = "HunterIllager-1.16.5-1.4.0.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3389/90/HunterIllager-1.16.5-1.4.0.jar"
+hash-format = "murmur2"
+hash = "3004627477"
+
+[update]
+[update.curseforge]
+file-id = 3389090
+project-id = 318857

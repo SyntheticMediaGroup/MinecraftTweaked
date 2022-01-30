@@ -1,0 +1,13 @@
+name = "Terra Incognita: The Unknown Land"
+filename = "terraincognita-1.16.3-1.7.1.1.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3587/138/terraincognita-1.16.3-1.7.1.1.jar"
+hash-format = "murmur2"
+hash = "3597972073"
+
+[update]
+[update.curseforge]
+file-id = 3587138
+project-id = 435386

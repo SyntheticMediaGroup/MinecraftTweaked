@@ -1,0 +1,13 @@
+name = "Piglin Expansion"
+filename = "Piglin Expansion 1.1.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3519/561/Piglin Expansion 1.1.jar"
+hash-format = "murmur2"
+hash = "1018294485"
+
+[update]
+[update.curseforge]
+file-id = 3519561
+project-id = 500074

@@ -2,11 +2,11 @@ hash-format = "sha256"
 
 [[files]]
 file = ".git/COMMIT_EDITMSG"
-hash = "6663c321790befb88b6ff811fb08655fda9881c2e568c04165bcb84079bdb4d8"
+hash = "79feabdaf48caa52f74e5e23bc103c120326ec09c39071185f42776b4574763f"
 
 [[files]]
 file = ".git/FETCH_HEAD"
-hash = "cfdca1f165651c198eb7e22e8c6d08c33a3d96b0046dfcce9c49a5f7b333ea34"
+hash = "1589adce41947818d1db3da66b7851fe2fed64ea23524c33dd5d1d551fc4e8e8"
 
 [[files]]
 file = ".git/HEAD"
@@ -78,7 +78,7 @@ hash = "8d5f2fa83e103cf08b57eaa67521df9194f45cbdbcb37da52ad586097a14d106"
 
 [[files]]
 file = ".git/index"
-hash = "2d4812bc7344033102b6499f8c65bf94e9a6d32fc9b12f65abfa2f2374de19fd"
+hash = "59d287665f48c0ba479b5080f40a354de268c768fd1b3dbc321790d2459d0b18"
 
 [[files]]
 file = ".git/info/exclude"
@@ -86,15 +86,15 @@ hash = "6671fe83b7a07c8932ee89164d1f2793b2318058eb8b98dc5c06ee0a5a3b0ec1"
 
 [[files]]
 file = ".git/logs/HEAD"
-hash = "cdcc54e6040f1ccce6db6848afc26db37300b4dffb2ff5f995d82bc5dfed0e27"
+hash = "e1977add826e555feb655b4d8035826483f6dc25319100ed2eb7d79c781ea783"
 
 [[files]]
 file = ".git/logs/refs/heads/main"
-hash = "cdcc54e6040f1ccce6db6848afc26db37300b4dffb2ff5f995d82bc5dfed0e27"
+hash = "e1977add826e555feb655b4d8035826483f6dc25319100ed2eb7d79c781ea783"
 
 [[files]]
 file = ".git/logs/refs/remotes/origin/main"
-hash = "c03cc7aba420537a06b87a6e6d2b2994b56cb55906a66451bef837bfdaf7bad9"
+hash = "aa9a3f2e6c7643fc998198d8d71f569283e127a4ae1420bcf022f0a5c92fce7d"
 
 [[files]]
 file = ".git/objects/01/1630d63c3f6c5f6b16affbf8d6f17af1344669"
@@ -647,6 +647,10 @@ hash = "dcd9b1feaea22c63485ba0368339d17bedf7567ad411d9a7ca72104eed725590"
 [[files]]
 file = ".git/objects/3d/e3548f7505ff2fece77dbfca6671d2080dd081"
 hash = "a8b4f2c532cf749bf016ac78df1f1f85cd13d7932f1c85f06837a33ebaef0006"
+
+[[files]]
+file = ".git/objects/3d/ef2a34217516dc5d371d9dd8006ed7f3a2a023"
+hash = "5fc65a41609c13059676890634d5032f093666e0d87e60d2893c36aa8c36a132"
 
 [[files]]
 file = ".git/objects/3e/b71990339055270351768f3fd3c6b9cc128f6f"
@@ -1813,6 +1817,10 @@ file = ".git/objects/b0/fc83b16b23584fc297319e52935fbc1776e700"
 hash = "d3730b3e5d680982cd4d37775744cbcfca62ca833ac36b1a6e7c91b97995071f"
 
 [[files]]
+file = ".git/objects/b1/1464bbed1a5459d30707f521fcb072168312b5"
+hash = "2256c7d09f5d940bb8f7e1546d1839a5923b7c182021d5fbf242b3ee3a9d97c5"
+
+[[files]]
 file = ".git/objects/b1/5a924e09955d80ce5f762516bacd7fc232bc89"
 hash = "9895388cf6e385765abde2df17b7a686e78a40d5980af22f0e76a920f532b867"
 
@@ -2197,6 +2205,10 @@ file = ".git/objects/e1/7c249975369d9612dec448c9085df9c2dbffda"
 hash = "d2af3120792a9c7db9eb2f9f888a5f3b0f3738cc33f48036521c3e73362813f8"
 
 [[files]]
+file = ".git/objects/e1/a2896c8806b5909832ecbba06c5aa3242fef07"
+hash = "eddd49f53e598b2db337b53e5b6b1bd0e65adc98b869ad0b7498c88ab5069250"
+
+[[files]]
 file = ".git/objects/e1/ba9e78b5562863432928a8fa6b829f96884ac1"
 hash = "342254754ce9310d2cf4fb49c8c5d07cbd9235ea34af8ead8086e5e3e02e554c"
 
@@ -2247,6 +2259,10 @@ hash = "4d1a7551aba25803cde802050ad3be54eec8fe00e8cfb275d25c2e939abcdafc"
 [[files]]
 file = ".git/objects/e8/48810b6c7cd9e1c26110779aa0c56dd843e4f7"
 hash = "e4ca7c7026bdec7f60e28321a1d60cf494dcc69e579c4402757e09dd6184c354"
+
+[[files]]
+file = ".git/objects/e8/9b5e98160e2949e64dc8f1484d88f22b7ddc05"
+hash = "8cd462fcd8005bdda03ec725e60aae00173fb2cb2811a762478a36915a89972a"
 
 [[files]]
 file = ".git/objects/e8/ed524d0c67c4a097139c314a99c50b4b8fe566"
@@ -2502,11 +2518,11 @@ hash = "23156fa3fff48723622775ab6a7550292226b24365f89238acc5f96ca8aba76d"
 
 [[files]]
 file = ".git/refs/heads/main"
-hash = "bb7ebb8b0cbec203fc194208a233ccfaf5a30f683a2888aebe3ae6b4feeda053"
+hash = "81ce833185ee3516ecd6ad7bf58a4b0701e299c17e2b29395f0fbdd0b49fd028"
 
 [[files]]
 file = ".git/refs/remotes/origin/main"
-hash = "bb7ebb8b0cbec203fc194208a233ccfaf5a30f683a2888aebe3ae6b4feeda053"
+hash = "81ce833185ee3516ecd6ad7bf58a4b0701e299c17e2b29395f0fbdd0b49fd028"
 
 [[files]]
 file = ".git/refs/tags/1.0.0"
@@ -3021,6 +3037,11 @@ metafile = true
 [[files]]
 file = "mods/dungeon-crawl.toml"
 hash = "24ab888db8768a315176077ebd3e9835448846568208e1aa03932d3597bd439f"
+metafile = true
+
+[[files]]
+file = "mods/dungeons-libraries.toml"
+hash = "7683990671286ffe5ae1f52d9482d8d888bd2bfd920b13be45666775397a4b45"
 metafile = true
 
 [[files]]
@@ -4066,6 +4087,11 @@ metafile = true
 [[files]]
 file = "mods/upgrade-aquatic.toml"
 hash = "43e35e88a48c587d2657befec8a65ca36c41481c23dee7ac523ef71ab4f184d6"
+metafile = true
+
+[[files]]
+file = "mods/upgraded-core.toml"
+hash = "042c8d9fd419458d2b706a41c309f52195b99d0ee4edeccd3b5e2052aaa7d68a"
 metafile = true
 
 [[files]]

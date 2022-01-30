@@ -8,6 +8,6 @@
 
 ## Installing the Pack
 1. Click `Add Instance`, then `Import from ZIP`
-2. Paste the following link into the text box: https://github.com/SyntheticMediaGroup/MinecraftTweaked/releases/download/1.0.0/Better.Minecraft.Tweaked.-.MINIMAL.zip
+2. Paste the following link into the text box: https://github.com/SyntheticMediaGroup/MinecraftTweaked/releases/download/v1.1.0/Better.Minecraft.Tweaked.-.MINIMAL.zip
 3. Select `Ok`
 4. Wait for the pack to be installed then launch the game

@@ -1,13 +1,13 @@
 name = "Architect's Palette"
-filename = "Architects-Palette-1.16.4-1.1.5.jar"
+filename = "Architects-Palette-1.16.4-1.1.4.jar"
 side = "both"
 
 [download]
-url = "https://edge.forgecdn.net/files/3619/985/Architects-Palette-1.16.4-1.1.5.jar"
+url = "https://edge.forgecdn.net/files/3414/676/Architects-Palette-1.16.4-1.1.4.jar"
 hash-format = "murmur2"
-hash = "2434621107"
+hash = "2909365477"
 
 [update]
 [update.curseforge]
-file-id = 3619985
+file-id = 3414676
 project-id = 433862

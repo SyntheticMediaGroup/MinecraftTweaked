@@ -1,13 +1,13 @@
 name = "Restored Earth"
-filename = "restored_earth-1.16.5-1.4.0.jar"
+filename = "restored_earth-1.16.5-1.3.0.jar"
 side = "both"
 
 [download]
-url = "https://edge.forgecdn.net/files/3596/942/restored_earth-1.16.5-1.4.0.jar"
+url = "https://edge.forgecdn.net/files/3566/628/restored_earth-1.16.5-1.3.0.jar"
 hash-format = "murmur2"
-hash = "271512356"
+hash = "3355295370"
 
 [update]
 [update.curseforge]
-file-id = 3596942
+file-id = 3566628
 project-id = 523197

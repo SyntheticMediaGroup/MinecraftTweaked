@@ -1,13 +1,13 @@
 name = "FancyMenu [Forge]"
-filename = "fancymenu_forge_2.6.0_MC_1.16.2-1.16.5.jar"
+filename = "fancymenu_forge_2.4.3_MC_1.16.2-1.16.5.jar"
 side = "both"
 
 [download]
-url = "https://edge.forgecdn.net/files/3622/827/fancymenu_forge_2.6.0_MC_1.16.2-1.16.5.jar"
+url = "https://edge.forgecdn.net/files/3555/635/fancymenu_forge_2.4.3_MC_1.16.2-1.16.5.jar"
 hash-format = "murmur2"
-hash = "1702161117"
+hash = "1916805474"
 
 [update]
 [update.curseforge]
-file-id = 3622827
+file-id = 3555635
 project-id = 367706

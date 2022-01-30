@@ -1,13 +1,13 @@
 name = "Nature Expansion"
-filename = "Nature Expansion1.4.1.jar"
+filename = "NatureExpansion1.4.jar"
 side = "both"
 
 [download]
-url = "https://edge.forgecdn.net/files/3609/538/Nature Expansion1.4.1.jar"
+url = "https://edge.forgecdn.net/files/3552/798/NatureExpansion1.4.jar"
 hash-format = "murmur2"
-hash = "640270211"
+hash = "3607661161"
 
 [update]
 [update.curseforge]
-file-id = 3609538
+file-id = 3552798
 project-id = 481562

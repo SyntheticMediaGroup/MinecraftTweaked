@@ -1,13 +1,13 @@
 name = "Wandering Bag"
-filename = "wandering-bag-1.16.5-1.0.3.jar"
+filename = "Wandering-Bag-1.16.5-1.0.2.jar"
 side = "both"
 
 [download]
-url = "https://edge.forgecdn.net/files/3615/82/wandering-bag-1.16.5-1.0.3.jar"
+url = "https://edge.forgecdn.net/files/3426/154/Wandering-Bag-1.16.5-1.0.2.jar"
 hash-format = "murmur2"
-hash = "1515435024"
+hash = "1381307347"
 
 [update]
 [update.curseforge]
-file-id = 3615082
+file-id = 3426154
 project-id = 500434

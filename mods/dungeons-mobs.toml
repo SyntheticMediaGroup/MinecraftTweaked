@@ -1,13 +1,13 @@
 name = "Dungeons Mobs"
-filename = "dungeons_mobs-1.16.5-1.0.10.jar"
+filename = "dungeons_mobs-1.16.5-2.0.1-beta.jar"
 side = "both"
 
 [download]
-url = "https://edge.forgecdn.net/files/3418/599/dungeons_mobs-1.16.5-1.0.10.jar"
+url = "https://edge.forgecdn.net/files/3545/927/dungeons_mobs-1.16.5-2.0.1-beta.jar"
 hash-format = "murmur2"
-hash = "1301064481"
+hash = "2457623484"
 
 [update]
 [update.curseforge]
-file-id = 3418599
+file-id = 3545927
 project-id = 428883

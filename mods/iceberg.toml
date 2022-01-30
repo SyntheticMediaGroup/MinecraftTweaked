@@ -1,13 +1,13 @@
 name = "Iceberg"
-filename = "Iceberg-1.16.5-1.0.34.jar"
+filename = "Iceberg-1.16.5-1.0.38.jar"
 side = "both"
 
 [download]
-url = "https://edge.forgecdn.net/files/3587/186/Iceberg-1.16.5-1.0.34.jar"
+url = "https://edge.forgecdn.net/files/3609/915/Iceberg-1.16.5-1.0.38.jar"
 hash-format = "murmur2"
-hash = "3958409591"
+hash = "766682618"
 
 [update]
 [update.curseforge]
-file-id = 3587186
+file-id = 3609915
 project-id = 520110

@@ -1,13 +1,13 @@
 name = "Ore Stone Variants"
-filename = "OSV-Forge-7.4.jar"
+filename = "OSV-Forge-7.5.jar"
 side = "both"
 
 [download]
-url = "https://edge.forgecdn.net/files/3587/405/OSV-Forge-7.4.jar"
+url = "https://edge.forgecdn.net/files/3612/510/OSV-Forge-7.5.jar"
 hash-format = "murmur2"
-hash = "1774237405"
+hash = "1784384847"
 
 [update]
 [update.curseforge]
-file-id = 3587405
+file-id = 3612510
 project-id = 287538

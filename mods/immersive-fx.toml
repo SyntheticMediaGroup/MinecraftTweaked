@@ -1,13 +1,13 @@
 name = "Immersive FX"
-filename = "ImmersiveFX 1.0.0-1 1.16.5.jar"
+filename = "ImmersiveFX 1.0.1 1.16.5.jar"
 side = "both"
 
 [download]
-url = "https://edge.forgecdn.net/files/3590/610/ImmersiveFX 1.0.0-1 1.16.5.jar"
+url = "https://edge.forgecdn.net/files/3604/435/ImmersiveFX 1.0.1 1.16.5.jar"
 hash-format = "murmur2"
-hash = "3308974959"
+hash = "641626753"
 
 [update]
 [update.curseforge]
-file-id = 3590610
+file-id = 3604435
 project-id = 563495

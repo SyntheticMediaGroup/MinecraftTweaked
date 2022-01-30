@@ -1,13 +1,13 @@
 name = "Terra Incognita: The Unknown Land"
-filename = "terraincognita-1.16.3-1.7.1.1.jar"
+filename = "terraincognita-1.16.3-1.7.2.jar"
 side = "both"
 
 [download]
-url = "https://edge.forgecdn.net/files/3587/138/terraincognita-1.16.3-1.7.1.1.jar"
+url = "https://edge.forgecdn.net/files/3630/615/terraincognita-1.16.3-1.7.2.jar"
 hash-format = "murmur2"
-hash = "3597972073"
+hash = "202544505"
 
 [update]
 [update.curseforge]
-file-id = 3587138
+file-id = 3630615
 project-id = 435386

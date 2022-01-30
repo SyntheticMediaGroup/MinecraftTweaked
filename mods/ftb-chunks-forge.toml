@@ -1,13 +1,13 @@
 name = "FTB Chunks (Forge)"
-filename = "ftb-chunks-forge-1605.3.2-build.91.jar"
+filename = "ftb-chunks-forge-1605.3.2-build.115.jar"
 side = "both"
 
 [download]
-url = "https://edge.forgecdn.net/files/3590/598/ftb-chunks-forge-1605.3.2-build.91.jar"
+url = "https://edge.forgecdn.net/files/3603/374/ftb-chunks-forge-1605.3.2-build.115.jar"
 hash-format = "murmur2"
-hash = "3173283240"
+hash = "1977919156"
 
 [update]
 [update.curseforge]
-file-id = 3590598
+file-id = 3603374
 project-id = 314906

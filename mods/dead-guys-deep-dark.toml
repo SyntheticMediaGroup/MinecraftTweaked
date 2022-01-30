@@ -1,13 +1,13 @@
 name = "Dead Guys Untitled Deep Dark"
-filename = "deepdark4.0.jar"
+filename = "deepdark_4.2.jar"
 side = "both"
 
 [download]
-url = "https://edge.forgecdn.net/files/3559/641/deepdark4.0.jar"
+url = "https://edge.forgecdn.net/files/3611/76/deepdark_4.2.jar"
 hash-format = "murmur2"
-hash = "680056301"
+hash = "2389469782"
 
 [update]
 [update.curseforge]
-file-id = 3559641
+file-id = 3611076
 project-id = 479009

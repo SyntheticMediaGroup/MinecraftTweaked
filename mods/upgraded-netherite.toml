@@ -1,13 +1,13 @@
 name = "Upgraded Netherite"
-filename = "Upgraded Netherite 1.10.1.jar"
+filename = "upgradednetherite-1.16.5-2.0.0.7-release.jar"
 side = "both"
 
 [download]
-url = "https://edge.forgecdn.net/files/3498/705/Upgraded Netherite 1.10.1.jar"
+url = "https://edge.forgecdn.net/files/3622/782/upgradednetherite-1.16.5-2.0.0.7-release.jar"
 hash-format = "murmur2"
-hash = "573316698"
+hash = "2352413545"
 
 [update]
 [update.curseforge]
-file-id = 3498705
+file-id = 3622782
 project-id = 400085

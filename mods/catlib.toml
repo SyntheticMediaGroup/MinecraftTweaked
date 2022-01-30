@@ -1,13 +1,13 @@
 name = "CatLib"
-filename = "CatLib-Forge-1.8.jar"
+filename = "CatLib-Forge-1.13.jar"
 side = "both"
 
 [download]
-url = "https://edge.forgecdn.net/files/3590/501/CatLib-Forge-1.8.jar"
+url = "https://edge.forgecdn.net/files/3630/851/CatLib-Forge-1.13.jar"
 hash-format = "murmur2"
-hash = "1508443308"
+hash = "3619490365"
 
 [update]
 [update.curseforge]
-file-id = 3590501
+file-id = 3630851
 project-id = 513391

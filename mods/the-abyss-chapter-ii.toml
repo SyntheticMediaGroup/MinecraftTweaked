@@ -1,13 +1,13 @@
 name = "The Abyss II - The Other Side"
-filename = "TheAbyss2 2.0.0-1 1.16.5.jar"
+filename = "TheAbyss2 2.2.2 1.16.5.jar"
 side = "both"
 
 [download]
-url = "https://edge.forgecdn.net/files/3590/721/TheAbyss2 2.0.0-1 1.16.5.jar"
+url = "https://edge.forgecdn.net/files/3625/426/TheAbyss2 2.2.2 1.16.5.jar"
 hash-format = "murmur2"
-hash = "2449120032"
+hash = "1493504910"
 
 [update]
 [update.curseforge]
-file-id = 3590721
+file-id = 3625426
 project-id = 440647

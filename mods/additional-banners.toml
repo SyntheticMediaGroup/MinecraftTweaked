@@ -1,13 +1,13 @@
 name = "Additional Banners"
-filename = "AdditionalBanners-1.16.5-6.0.3.jar"
+filename = "AdditionalBanners-1.16.5-6.0.4.jar"
 side = "both"
 
 [download]
-url = "https://edge.forgecdn.net/files/3279/597/AdditionalBanners-1.16.5-6.0.3.jar"
+url = "https://edge.forgecdn.net/files/3348/557/AdditionalBanners-1.16.5-6.0.4.jar"
 hash-format = "murmur2"
-hash = "2259965122"
+hash = "3157892509"
 
 [update]
 [update.curseforge]
-file-id = 3279597
+file-id = 3348557
 project-id = 230137

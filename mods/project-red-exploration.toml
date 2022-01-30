@@ -1,13 +1,13 @@
 name = "Project Red - Exploration"
-filename = "ProjectRed-1.16.5-4.10.0-exploration.jar"
+filename = "ProjectRed-1.16.5-4.11.0-beta-6-exploration.jar"
 side = "both"
 
 [download]
-url = "https://edge.forgecdn.net/files/3407/716/ProjectRed-1.16.5-4.10.0-exploration.jar"
+url = "https://edge.forgecdn.net/files/3535/647/ProjectRed-1.16.5-4.11.0-beta-6-exploration.jar"
 hash-format = "murmur2"
-hash = "4281282834"
+hash = "2039522253"
 
 [update]
 [update.curseforge]
-file-id = 3407716
+file-id = 3535647
 project-id = 229049

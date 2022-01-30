@@ -1,13 +1,13 @@
 name = "Storage Drawers"
-filename = "StorageDrawers-1.16.3-8.5.0.jar"
+filename = "StorageDrawers-1.16.3-8.5.1.jar"
 side = "both"
 
 [download]
-url = "https://edge.forgecdn.net/files/3580/837/StorageDrawers-1.16.3-8.5.0.jar"
+url = "https://edge.forgecdn.net/files/3611/471/StorageDrawers-1.16.3-8.5.1.jar"
 hash-format = "murmur2"
-hash = "3272079233"
+hash = "3720113930"
 
 [update]
 [update.curseforge]
-file-id = 3580837
+file-id = 3611471
 project-id = 223852

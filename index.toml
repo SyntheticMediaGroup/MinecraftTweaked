@@ -2652,7 +2652,7 @@ metafile = true
 
 [[files]]
 file = "mods/betterlands.toml"
-hash = "372266e2792f91cd73f9b3c61eb16deebc477826196a80b3cb74c08f4a9988c7"
+hash = "aa87bcb302e67f1f8cd592b720cb2d18c167976bdb6496c30e208d695168e31b"
 metafile = true
 
 [[files]]

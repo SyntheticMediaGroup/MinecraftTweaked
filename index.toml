@@ -1549,6 +1549,11 @@ hash = "43e35e88a48c587d2657befec8a65ca36c41481c23dee7ac523ef71ab4f184d6"
 metafile = true
 
 [[files]]
+file = "mods/upgraded-core.toml"
+hash = "042c8d9fd419458d2b706a41c309f52195b99d0ee4edeccd3b5e2052aaa7d68a"
+metafile = true
+
+[[files]]
 file = "mods/upgraded-netherite.toml"
 hash = "e2ef5d83991f07f78cb4b7998ef0b16bb0bd83378d2ace0d00cea4a5b261e9fb"
 metafile = true
